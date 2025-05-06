@@ -5,7 +5,7 @@
 
 ---
 
-Soy un estudiante de tercer año en la Universidad Nacional de La Plata, con un fuerte interés en el desarrollo de pipelines de datos, desde la extracción hasta la visualización. Me especializo en diseñar procesos ETL que integran, limpian y transforman información desde diversas fuentes, con el objetivo de estructurarla de manera eficiente para su análisis posterior.  
+Soy un estudiante en la Universidad Nacional de La Plata, con un fuerte interés en el desarrollo de pipelines de datos, desde la extracción hasta la visualización. Me especializo en diseñar procesos ETL que integran, limpian y transforman información desde diversas fuentes, con el objetivo de estructurarla de manera eficiente para su análisis posterior.  
 
 ---
 
