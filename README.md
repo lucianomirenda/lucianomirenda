@@ -1,7 +1,7 @@
 # 👋 Hola!
 
 🎓 Estudiante de Analista Programador Universitario (UNLP)  
-💻 Apasionado por la Ingeniería de Datos  
+💻 Dedicado a la Ingeniería de Datos  
 
 ---
 
