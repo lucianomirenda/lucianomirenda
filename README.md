@@ -1,4 +1,4 @@
-# 👋 Hi!
+# 👋 Hola!
 
 🎓 Estudiante de Analista Programador Universitario (UNLP)  
 💻 Apasionado por la Ingeniería de Datos  
