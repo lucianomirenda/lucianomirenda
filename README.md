@@ -11,19 +11,15 @@ Soy un estudiante en la Universidad Nacional de La Plata, con un fuerte interés
 
 ## Mis Proyectos
 
-### 📊 Análisis de precios de guitarras (ETL completo en Databricks)
-Pipeline completo de análisis de datos sobre precios de guitarras en Mercado Libre.  
-Incluye scraping con Python, procesamiento en PySpark, modelado dimensional en esquema estrella y visualización con Power BI.  
-📎 [Repositorio del proyecto](https://github.com/lucianomirenda/guitarras-precio-promedio-ml)
+- [Análisis de precios de guitarras (ETL completo en Databricks)](https://github.com/lucianomirenda/guitarras-precio-promedio-ml): Pipeline completo de análisis de datos sobre precios de guitarras en Mercado Libre. Incluye scraping con Python, procesamiento en PySpark, modelado dimensional en esquema estrella y visualización con Power BI.
+  - Tecnologías: Python, BeautifulSoup, PySpark, Databricks, SQL, Power BI 
 
-### 🏠 Web para inmobiliaria (Front + Back)
-Desarrollo de una aplicación web con back-end en PHP (Slim), API REST, operaciones CRUD, front-end en React, base de datos MySQL y despliegue con Docker.  
-🔧 [Back-End](https://github.com/lucianomirenda/inmobiliaria-backend)  
-🎨 [Front-End](https://github.com/lucianomirenda/inmobiliaria-frontend)
+- Web para inmobiliaria ([Front-End](https://github.com/lucianomirenda/inmobiliaria-frontend) + [Back-End](https://github.com/lucianomirenda/inmobiliaria-backend)  ): Desarrollo de una aplicación web con back-end en PHP (Slim), API REST, operaciones CRUD, front-end en React, base de datos MySQL y despliegue con Docker.
+  - Tecnologías: PHP, Slim (Framework), MySQL, Javascript, React, Docker
 
 ---
 
-## 🧰 Tecnologías
+## Tecnologías
 
 - **Lenguajes:** Python, SQL, Java, Bash  
 - **Frameworks / Librerías:** PySpark, Pandas, BeautifulSoup  
